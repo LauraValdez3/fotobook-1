@@ -46,5 +46,5 @@ $routes->get('/paquetes/(:num)/delete', 'PaqueteController::delete/$1'); // Elim
 //si se puede
 
 
-//gerardo cagon y joto
+//gerardo cagon y joto toda su perra vida
 $routes->get('/plantilla', 'Home::plantilla'); 
